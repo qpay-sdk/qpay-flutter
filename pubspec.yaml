@@ -1,0 +1,20 @@
+name: qpay_flutter
+description: QPay V2 payment UI widgets for Flutter
+version: 1.0.0
+repository: https://github.com/qpay-sdk/qpay-flutter
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  qpay: ^1.0.0
+  qr_flutter: ^4.1.0
+  url_launcher: ^6.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
