@@ -2,6 +2,7 @@
 
 [![pub](https://img.shields.io/pub/v/qpay_flutter)](https://pub.dev/packages/qpay_flutter)
 [![CI](https://github.com/qpay-sdk/qpay-flutter/actions/workflows/ci.yml/badge.svg)](https://github.com/qpay-sdk/qpay-flutter/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 QPay V2 payment UI widgets for Flutter.
 
