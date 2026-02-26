@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../theme/qpay_theme.dart';
 import 'qpay_qr_code.dart';
 import 'qpay_bank_list.dart';
 
