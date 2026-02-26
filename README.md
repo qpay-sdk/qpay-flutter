@@ -1,5 +1,8 @@
 # qpay_flutter
 
+[![pub](https://img.shields.io/pub/v/qpay_flutter)](https://pub.dev/packages/qpay_flutter)
+[![CI](https://github.com/qpay-sdk/qpay-flutter/actions/workflows/ci.yml/badge.svg)](https://github.com/qpay-sdk/qpay-flutter/actions)
+
 QPay V2 payment UI widgets for Flutter.
 
 ## Install
